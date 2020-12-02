@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GasCalculator</string>
+    <string name="fuelused">Amount of fuel used %.2f liters</string>
+    <string name="costblank">Cost ...</string>
+    <string name="cl">Clear</string>
+    <string name="sv">Save</string>
+    <string name="cal">Calculate</string>
+    <string name="km">km</string>
+    <string name="litprekm">L/100km</string>
+    <string name="eurlit">€/liiter</string>
+    <string name="mounted">Ex storage is mounted</string>
+    <string name="notMounted">Ex storage is not mounted</string>
+    <string name="exNonGrant">Ex storage not granted</string>
+    <string name="exGrant">Ex storage is granted</string>
+    <string name="pplarv">Inimeste arv</string>
+</resources>
